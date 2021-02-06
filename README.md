@@ -1,2 +1,2 @@
 # hello-world
-Just an introduction to github environment
+Just an introduction to the github environment
